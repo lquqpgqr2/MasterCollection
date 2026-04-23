@@ -1,9 +1,9 @@
 <Solution>
   <Folder Name="/src/">
-    <Project Path="src/MasterCollection.Api/MasterCollection.Api.csproj" />
     <Project Path="src/MasterCollection.Application/MasterCollection.Application.csproj" />
     <Project Path="src/MasterCollection.Common/MasterCollection.Common.csproj" />
     <Project Path="src/MasterCollection.Domain/MasterCollection.Domain.csproj" />
     <Project Path="src/MasterCollection.Infrastructure/MasterCollection.Infrastructure.csproj" />
+    <Project Path="src/MasterCollection.Presentation/MasterCollection.Presentation.csproj" />
   </Folder>
 </Solution>
